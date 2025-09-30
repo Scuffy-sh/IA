@@ -28,7 +28,9 @@ Cada proyecto incluye:
 ## 🔹 Transformers
 - **Clasificación de noticias** – NLP.
 - **Clasificación de sentimientos** – NLP.
+- **Clasificación de sentimientos con el dataset TASS** – NLP en español.
 - **NER (Named Entity Recognition)** – Reconocimiento de entidades en texto.
+- **Longformer** – Procesamiento de contratos legales y documentos largos.
 
 ---
 
